@@ -1,4 +1,4 @@
-# 🧠🍎 AI Fitness & Nutrition Assistant
+<img width="497" height="918" alt="scan1" src="https://github.com/user-attachments/assets/366cfaa9-c9e9-48bb-a2d0-958a69b028d3" /># 🧠🍎 AI Fitness & Nutrition Assistant
 
 ## 📌 Overview
 
@@ -98,6 +98,39 @@ Create `.env.local`
 ### Run App
 
     npm run dev
+
+------------------------------------------------------------------------
+## Screnshorts of output
+<img width="463" height="808" alt="home page" src="https://github.com/user-attachments/assets/ccfdbe83-5412-4d76-b029-8c573d004223" />
+<img width="497" height="918" alt="scan1" src="https://github.com/user-attachments/assets/f495d0bb-0879-4b62-8c8b-8cbc656e6ae2" />
+<img width="506" height="875" alt="scan 2" src="https://github.com/user-attachments/assets/5d194c89-7683-4a5c-834f-92e2d339c04b" />
+<img width="491" height="865" alt="Ai couch" src="https://github.com/user-attachments/assets/2af22854-9f31-4db9-bfec-37504ad8b834" />
+<img width="500" height="887" alt="profile" src="https://github.com/user-attachments/assets/c4258bbe-ff74-4f8e-871b-8427d7f1484c" />
+
+
+------------------------------------------------------------------------
+## 🧾 Development Note
+
+This project was conceptualized, designed, and managed by me.
+The complete idea, feature planning, workflow design, and implementation guidance were created by me.
+
+For faster development and prototyping, Google AI Studio was used as a development assistant to help generate parts of the code.
+
+Contribution Breakdown
+
+💡 Project Idea & Concept — Done by Me
+
+🧠 Feature Planning & Architecture Design — Done by Me
+
+🎯 Use Case Design & Problem Solving Approach — Done by Me
+
+🤖 AI Integration Logic & Prompt Design — Done by Me
+
+💻 Code Generation Support — Assisted by Google AI Studio
+
+🧪 Testing, Modification & Final Integration — Done by Me
+
+Google AI Studio was used as a productivity and development tool, while the project ownership, logic, and implementation decisions were fully driven by me.
 
 ------------------------------------------------------------------------
 
