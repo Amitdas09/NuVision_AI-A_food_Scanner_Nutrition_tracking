@@ -1,4 +1,4 @@
-<img width="497" height="918" alt="scan1" src="https://github.com/user-attachments/assets/366cfaa9-c9e9-48bb-a2d0-958a69b028d3" /># 🧠🍎 AI Fitness & Nutrition Assistant
+# 🧠🍎 AI Fitness & Nutrition Assistant
 
 ## 📌 Overview
 
