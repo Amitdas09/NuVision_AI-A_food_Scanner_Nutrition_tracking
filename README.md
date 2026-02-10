@@ -1,6 +1,6 @@
 # 🧠🍎 AI Fitness & Nutrition Assistant
 
-Active Link: [nuvisonai-amits-projects-ca38c90b.vercel.app](https://nuvisonai-amits-projects-ca38c90b.vercel.app/
+Active Link: https://nuvisonai-amits-projects-ca38c90b.vercel.app/
 
 ## 📌 Overview
 
