@@ -1,5 +1,7 @@
 # 🧠🍎 AI Fitness & Nutrition Assistant
 
+Active Link: https://nuvisonai.vercel.app/
+
 ## 📌 Overview
 
 AI Fitness & Nutrition Assistant is an intelligent health companion
