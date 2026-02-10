@@ -1,6 +1,6 @@
 # 🧠🍎 AI Fitness & Nutrition Assistant
 
-Active Link: https://nuvison-bw79cx9zu-amits-projects-ca38c90b.vercel.app
+Active Link: https://nuvisonai.vercel.app?_vercel_share=vAS1O3HvulXP3cjJVa3M58qh1jSd1kVG
 
 ## 📌 Overview
 
@@ -103,12 +103,22 @@ Create `.env.local`
 
 ------------------------------------------------------------------------
 ## Screnshorts of output
-![profile](https://github.com/user-attachments/assets/39455393-98a7-4e1b-9d21-02efcb59842b)
-![home page](https://github.com/user-attachments/assets/4e7f5c67-9955-4614-ae41-a0eff0f4c726)
-![Ai coach](https://github.com/user-attachments/assets/80a87903-8588-4cc9-a908-6a8be5df0f1c)
-![scan1](https://github.com/user-attachments/assets/2cc51374-8d31-48b5-8230-71883aba16a4)
-![scan2](https://github.com/user-attachments/assets/23cefaf8-5bd8-4e67-9b35-4b9393bfc31f)
-![scan3](https://github.com/user-attachments/assets/89b6bee9-ff1c-46c1-ba92-37e6ebd969c2)
+<!-- Row 1 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/39455393-98a7-4e1b-9d21-02efcb59842b" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4e7f5c67-9955-4614-ae41-a0eff0f4c726" width="250"/>
+  <img src="https://github.com/user-attachments/assets/80a87903-8588-4cc9-a908-6a8be5df0f1c" width="250"/>
+</p>
+
+<!-- Row 2 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2cc51374-8d31-48b5-8230-71883aba16a4" width="250"/>
+  <img src="https://github.com/user-attachments/assets/23cefaf8-5bd8-4e67-9b35-4b9393bfc31f" width="250"/>
+  <img src="https://github.com/user-attachments/assets/89b6bee9-ff1c-46c1-ba92-37e6ebd969c2" width="250"/>
+</p>
+
+
+
 
 ------------------------------------------------------------------------
 ## 🧾 Development Note
