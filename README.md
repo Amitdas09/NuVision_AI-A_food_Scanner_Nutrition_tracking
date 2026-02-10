@@ -103,12 +103,12 @@ Create `.env.local`
 
 ------------------------------------------------------------------------
 ## Screnshorts of output
-<img width="460" height="820" alt="home page" src="https://github.com/user-attachments/assets/ccfdbe83-5412-4d76-b029-8c573d004223" />
-<img width="460" height="820" alt="scan1" src="https://github.com/user-attachments/assets/f495d0bb-0879-4b62-8c8b-8cbc656e6ae2" />
-<img width="460" height="820" alt="scan 2" src="https://github.com/user-attachments/assets/5d194c89-7683-4a5c-834f-92e2d339c04b" />
-<img width="460" height="820" alt="Ai couch" src="https://github.com/user-attachments/assets/2af22854-9f31-4db9-bfec-37504ad8b834" />
-<img width="460" height="820" alt="profile" src="https://github.com/user-attachments/assets/c4258bbe-ff74-4f8e-871b-8427d7f1484c" />
-
+![profile](https://github.com/user-attachments/assets/39455393-98a7-4e1b-9d21-02efcb59842b)
+![home page](https://github.com/user-attachments/assets/4e7f5c67-9955-4614-ae41-a0eff0f4c726)
+![Ai coach](https://github.com/user-attachments/assets/80a87903-8588-4cc9-a908-6a8be5df0f1c)
+![scan1](https://github.com/user-attachments/assets/2cc51374-8d31-48b5-8230-71883aba16a4)
+![scan2](https://github.com/user-attachments/assets/23cefaf8-5bd8-4e67-9b35-4b9393bfc31f)
+![scan3](https://github.com/user-attachments/assets/89b6bee9-ff1c-46c1-ba92-37e6ebd969c2)
 
 ------------------------------------------------------------------------
 ## 🧾 Development Note
