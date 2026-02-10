@@ -109,7 +109,7 @@ Create `.env.local`
   <img src="https://github.com/user-attachments/assets/4e7f5c67-9955-4614-ae41-a0eff0f4c726" width="250"/>
   <img src="https://github.com/user-attachments/assets/80a87903-8588-4cc9-a908-6a8be5df0f1c" width="250"/>
 </p>
-------------------------------------------------------------------------
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2cc51374-8d31-48b5-8230-71883aba16a4" width="250"/>
   <img src="https://github.com/user-attachments/assets/23cefaf8-5bd8-4e67-9b35-4b9393bfc31f" width="250"/>
