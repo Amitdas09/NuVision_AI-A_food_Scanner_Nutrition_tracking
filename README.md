@@ -1,4 +1,4 @@
-# 🧠🍎 Shishu-Sneh — AI Fitness, Nutrition & Mother-Baby Care Assistant
+# 🧠🍎 Shishu-Sneh (NuVison AI) — AI Fitness, Nutrition & Mother-Baby Care Assistant
 
 🌐 **Live Demo:**
 [Shishu-Sneh Live App](https://nuvisonai.vercel.app?_vercel_share=vAS1O3HvulXP3cjJVa3M58qh1jSd1kVG&utm_source=chatgpt.com)
