@@ -1,109 +1,224 @@
-# 🧠🍎 AI Fitness & Nutrition Assistant
+# 🧠🍎 Shishu-Sneh — AI Fitness, Nutrition & Mother-Baby Care Assistant
 
-Active Link: https://nuvisonai.vercel.app?_vercel_share=vAS1O3HvulXP3cjJVa3M58qh1jSd1kVG
+🌐 **Live Demo:**
+[Shishu-Sneh Live App](https://nuvisonai.vercel.app?_vercel_share=vAS1O3HvulXP3cjJVa3M58qh1jSd1kVG&utm_source=chatgpt.com)
 
-## 📌 Overview
+---
 
-AI Fitness & Nutrition Assistant is an intelligent health companion
-application that helps users **track fitness goals**, **scan food
-items**, and **get real-time nutrition insights**. The app also includes
-an **AI Coach** that provides personalized fitness, diet, and lifestyle
-recommendations based on user goals and activity.
+# 📌 Overview
 
-------------------------------------------------------------------------
+**Shishu-Sneh** (meaning *“Affection for Baby”* in Hindi) is an AI-powered **mother-and-baby healthcare companion** designed especially for **first-time mothers in rural and semi-urban India**.
 
-## 🚀 Features
+The application acts as a **Digital Elder**, guiding mothers throughout their baby’s first year with developmental tracking, vaccination reminders, healthcare guidance, and maternal wellness support.
 
-### 🏋️ Fitness Goal Tracking
+Alongside baby-care assistance, Shishu-Sneh also integrates an advanced **AI Fitness & Nutrition Assistant** that helps mothers monitor their own health through:
 
--   Weight Loss, Muscle Gain, Weight Gain, Maintenance
--   Stores user details (Height, Weight, Age, Gender, Activity Level)
--   Tracks calorie intake vs burn
--   Daily progress tracking
+* AI-powered food scanning
+* Nutrition analysis
+* Calorie tracking
+* Personalized wellness insights
+* AI fitness coaching
 
-### 📷 AI Food Scanner
+The platform combines **maternal care**, **infant healthcare**, and **nutrition intelligence** into one unified AI-driven ecosystem.
 
--   Upload food image
--   Scan packaged food labels
--   Nutrition breakdown:
-    -   Calories
-    -   Protein
-    -   Carbs
-    -   Fats
-    -   Fiber
-    -   Sugar
-    -   Vitamins (if available)
+---
 
-### 🥗 Food Label Analyzer
+# 🚀 Features
 
--   Ingredient detection from labels
--   Harmful additive detection
--   Health score generation
--   Suggest healthier alternatives
+## 👶 Mother & Baby Care System
 
-### 🤖 AI Fitness Coach
+### 📅 Weekly Baby Development Tracking
 
--   Chat-based AI assistant
--   Workout suggestions
--   Meal planning advice
--   Motivation & reminders
--   Recovery guidance
+* Weekly milestone monitoring
+* Growth & development insights
+* Age-specific guidance
+* Parenting assistance for first-time mothers
 
-### 📊 Dashboard & Analytics
+### 💉 Vaccination Reminder System
 
--   Daily nutrition summary
--   Weekly fitness trends
--   Goal progress insights
+* Smart vaccination schedules
+* Reminder notifications
+* Immunization tracking
+* Healthcare awareness support
 
-------------------------------------------------------------------------
+### 🩺 Digital Elder Guidance
 
-## 🛠️ Tech Stack
+* AI-assisted parenting support
+* Baby care recommendations
+* Infant wellness guidance
+* Rural healthcare accessibility support
 
-### AI & ML
+---
 
--   Google Gemini API
--   Vision Models
--   Nutrition APIs
+# 🏋️ AI Fitness & Nutrition Assistant
 
-------------------------------------------------------------------------
+## 🎯 Fitness Goal Tracking
 
-## 📂 Project Structure
+Supports multiple health goals:
 
-    src/
-     ├ components/
-     ├ services/
-     ├ screens/
-     ├ utils/
-     ├ constants/
-     ├ types/
-     └ App.tsx
+* Weight Loss
+* Muscle Gain
+* Weight Gain
+* Maintenance
 
-------------------------------------------------------------------------
+Tracks:
 
-## ⚙️ Installation
+* Height
+* Weight
+* Age
+* Gender
+* Activity Level
+* Daily calorie intake
+* Calories burned
+* Progress analytics
 
-### Clone Repo
+---
 
-    git clone <your-repo-link>
-    cd project-folder
+## 📷 AI Food Scanner
 
-### Install Dependencies
+### Real-Time Food Detection
 
-    npm install
+* Upload food images
+* Camera-based food scanning
+* Packaged food label scanning
+* AI-powered nutrition recognition
 
-### Setup Environment Variables
+### Nutrition Breakdown
 
-Create `.env.local`
+Provides detailed nutritional analysis:
 
-    VITE_GEMINI_API_KEY=your_api_key_here
+* Calories
+* Protein
+* Carbohydrates
+* Fats
+* Fiber
+* Sugar
+* Vitamins & minerals (when available)
 
-### Run App
+---
 
-    npm run dev
+## 🥗 Smart Food Label Analyzer
 
-------------------------------------------------------------------------
-## Screnshorts of output
-<!-- Row 1 -->
+### Ingredient Intelligence
+
+* Detects ingredients from labels
+* Identifies harmful additives
+* Generates health scores
+* Suggests healthier alternatives
+
+### Maternal Wellness Support
+
+Designed to help mothers:
+
+* Maintain healthy nutrition post-delivery
+* Monitor calorie intake
+* Improve dietary awareness
+* Support recovery & wellness
+
+---
+
+# 🤖 AI Fitness Coach
+
+Interactive AI assistant providing:
+
+* Personalized workout suggestions
+* Meal planning guidance
+* Nutrition recommendations
+* Recovery advice
+* Motivation & wellness support
+* Lifestyle improvement insights
+
+---
+
+# 📊 Dashboard & Analytics
+
+## Smart Insights
+
+* Daily nutrition summaries
+* Weekly fitness trends
+* Goal progress tracking
+* Calorie analytics
+* Health monitoring dashboard
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Frontend
+
+* React / TypeScript
+* Vite
+
+## 🤖 AI & Machine Learning
+
+* Google Gemini API
+* Vision Models
+* AI Nutrition Analysis
+* AI Prompt Engineering
+
+## 📦 Backend & APIs
+
+* Nutrition APIs
+* Secure API integrations
+
+---
+
+# 📂 Project Structure
+
+```bash
+src/
+ ├── components/
+ ├── services/
+ ├── screens/
+ ├── utils/
+ ├── constants/
+ ├── types/
+ └── App.tsx
+```
+
+---
+
+# ⚙️ Installation
+
+## 📥 Clone Repository
+
+```bash
+git clone <your-repository-link>
+cd project-folder
+```
+
+---
+
+## 📦 Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## 🔑 Setup Environment Variables
+
+Create a `.env.local` file:
+
+```env
+VITE_GEMINI_API_KEY=your_api_key_here
+```
+
+---
+
+## ▶️ Run Application
+
+```bash
+npm run dev
+```
+
+---
+
+# 📸 Screenshots
+
+## Application Preview
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/39455393-98a7-4e1b-9d21-02efcb59842b" width="250"/>
   <img src="https://github.com/user-attachments/assets/4e7f5c67-9955-4614-ae41-a0eff0f4c726" width="250"/>
@@ -116,52 +231,70 @@ Create `.env.local`
   <img src="https://github.com/user-attachments/assets/89b6bee9-ff1c-46c1-ba92-37e6ebd969c2" width="250"/>
 </p>
 
+---
 
+# 🔐 Privacy & Security
 
+* Encrypted user data
+* Secure API communication
+* Privacy-focused architecture
+* No image storage without user permission
 
-------------------------------------------------------------------------
-## 🧾 Development Note
+---
 
-This project was conceptualized, designed, and managed by me.
-The complete idea, feature planning, workflow design, and implementation guidance were created by me.
+# 🎯 Target Use Cases
 
-For faster development and prototyping, Google AI Studio was used as a development assistant to help generate parts of the code.
+* First-time Mothers
+* Rural & Semi-Urban Healthcare Support
+* Maternal Wellness Monitoring
+* Fitness Enthusiasts
+* Athletes
+* Gym Beginners
+* Diet Planners
+* Nutrition Tracking
 
-Contribution Breakdown
+---
 
-💡 Project Idea & Concept — Done by Me
+# 🧾 Development Note
 
-🧠 Feature Planning & Architecture Design — Done by Me
+This project was conceptualized, designed, and managed entirely by me.
 
-🎯 Use Case Design & Problem Solving Approach — Done by Me
+The complete idea, feature planning, workflow design, AI integration logic, and implementation strategy were independently created and directed by me.
 
-🤖 AI Integration Logic & Prompt Design — Done by Me
+To accelerate development and rapid prototyping, **Google AI Studio** was used as a development assistant for generating parts of the codebase.
 
-💻 Code Generation Support — Assisted by Google AI Studio
+## Contribution Breakdown
 
-🧪 Testing, Modification & Final Integration — Done by Me
+| Contribution Area                            | Responsibility               |
+| -------------------------------------------- | ---------------------------- |
+| 💡 Project Idea & Concept                    | Done by Me                   |
+| 🧠 Feature Planning & Architecture Design    | Done by Me                   |
+| 🎯 Use Case Design & Problem Solving         | Done by Me                   |
+| 🤖 AI Integration Logic & Prompt Engineering | Done by Me                   |
+| 💻 Code Generation Assistance                | Assisted by Google AI Studio |
+| 🧪 Testing, Debugging & Final Integration    | Done by Me                   |
 
-Google AI Studio was used as a productivity and development tool, while the project ownership, logic, and implementation decisions were fully driven by me.
+Google AI Studio was used strictly as a productivity and development-support tool.
+The project ownership, logic, architecture, implementation decisions, and integration workflow were fully directed and managed by me.
 
-------------------------------------------------------------------------
+---
 
-## 🔐 Privacy
+# 🌍 Vision
 
--   Encrypted user data
--   Secure API calls
--   No image storage without permission
+Shishu-Sneh aims to bridge the gap between:
 
-------------------------------------------------------------------------
+* AI-powered healthcare
+* Maternal wellness
+* Infant care accessibility
+* Nutrition intelligence
+* Rural healthcare support
 
-## 🎯 Use Cases
+by providing an affordable and intelligent digital companion for mothers and families.
 
--   Fitness Enthusiasts
--   Athletes
--   Gym Beginners
--   Diet Planners
+---
 
-------------------------------------------------------------------------
+# 👨‍💻 Author
 
-## 👨‍💻 Author
+## **Amit Ranjan Das**
 
-**Amit Ranjan Das** AI \| Fitness Tech \| Nutrition Intelligence
+AI • Fitness Tech • Nutrition Intelligence • Healthcare Innovation
