@@ -220,9 +220,11 @@ npm run dev
 ## Application Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/39455393-98a7-4e1b-9d21-02efcb59842b" width="250"/>
-  <img src="https://github.com/user-attachments/assets/4e7f5c67-9955-4614-ae41-a0eff0f4c726" width="250"/>
-  <img src="https://github.com/user-attachments/assets/80a87903-8588-4cc9-a908-6a8be5df0f1c" width="250"/>
+  <img width="720" height="1600" alt="Home page" src="https://github.com/user-attachments/assets/a80c72cd-193f-495d-99bb-5015d2dbf910" />
+  <img width="720" height="1600" alt="scan" src="https://github.com/user-attachments/assets/405a3d25-7927-4264-82f5-0aa521e78a43" />
+  <img width="720" height="1600" alt="Baby_magement" src="https://github.com/user-attachments/assets/d9960d01-aecc-4c94-a9a0-138753ac94c8" />
+
+
 </p>
 
 <p align="center">
