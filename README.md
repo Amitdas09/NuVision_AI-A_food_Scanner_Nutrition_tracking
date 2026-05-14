@@ -220,17 +220,15 @@ npm run dev
 ## Application Preview
 
 <p align="center">
-  <img width="720" height="1600" alt="Home page" src="https://github.com/user-attachments/assets/a80c72cd-193f-495d-99bb-5015d2dbf910" />
-  <img width="720" height="1600" alt="scan" src="https://github.com/user-attachments/assets/405a3d25-7927-4264-82f5-0aa521e78a43" />
-  <img width="720" height="1600" alt="Baby_magement" src="https://github.com/user-attachments/assets/d9960d01-aecc-4c94-a9a0-138753ac94c8" />
-
-
+  <img src="https://github.com/user-attachments/assets/a80c72cd-193f-495d-99bb-5015d2dbf910" width="250"/>
+  <img src="https://github.com/user-attachments/assets/405a3d25-7927-4264-82f5-0aa521e78a43" width="250"/>
+  <img src="https://github.com/user-attachments/assets/d9960d01-aecc-4c94-a9a0-138753ac94c8" width="250"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2cc51374-8d31-48b5-8230-71883aba16a4" width="250"/>
-  <img src="https://github.com/user-attachments/assets/23cefaf8-5bd8-4e67-9b35-4b9393bfc31f" width="250"/>
-  <img src="https://github.com/user-attachments/assets/89b6bee9-ff1c-46c1-ba92-37e6ebd969c2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/0032594a-15ef-42ac-bce4-077cc6832d07" width="250"/>
+  <img src="https://github.com/user-attachments/assets/6017a475-0bdb-4833-8be1-9252b01cd916" width="250"/>
+  <img src="https://github.com/user-attachments/assets/e73798f1-940e-47ce-b776-530f9a0e113e" width="250"/>
 </p>
 
 ---
